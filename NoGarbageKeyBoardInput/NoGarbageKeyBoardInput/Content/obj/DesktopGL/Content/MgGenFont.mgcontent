@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/will/MainFiles/MyProjects2018/NoGarbageKeyBoardInput/NoGarbageKeyBoardInput/Content/MgGenFont.spritefont</SourceFile>
+  <SourceTime>2019-05-21T01:51:30.3569463-04:00</SourceTime>
+  <DestFile>C:/Users/will/MainFiles/MyProjects2018/NoGarbageKeyBoardInput/NoGarbageKeyBoardInput/Content/bin/DesktopGL/Content/MgGenFont.xnb</DestFile>
+  <DestTime>2019-10-29T21:11:08.9147567-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2019-10-15T15:28:30-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2019-10-15T15:28:30-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
